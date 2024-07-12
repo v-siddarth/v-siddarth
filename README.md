@@ -28,5 +28,5 @@ Feel free to explore my repositories and connect with me!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v-siddarth&show_icons=true&locale=en" alt="v-siddarth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=v-siddarth&" alt="v-siddarth" /></p>
+
 
